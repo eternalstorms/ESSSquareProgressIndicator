@@ -1,5 +1,5 @@
 # ESSSquareProgressIndicator
-A rectangular (square), indeterminate progress indicator for iOS and OS X ([Blog Post](http://LINKTOBLOGPOST))
+A rectangular (square), indeterminate progress indicator for iOS and OS X ([Blog Post](https://eternalstorms.wordpress.com/2015/04/02/esssquareprogressindicator-for-ios-and-os-x/))
 
 ![ESSSquareProgressIndicator Animation](http://eternalstorms.at/opensource/ESSSquareProgressIndicator/indicator.gif "ESSSquareProgressIndicator Animation")
 
